@@ -25,8 +25,8 @@ Smart Report Engine is a user-friendly PHP reporting framework that enables the 
    - Import the "example.sql" file into your chosen MySQL database. This will create the "items" table and populate it with initial data.
    
 4- Configure the database Connection String
-   - Navigate to the "sre_config" directory within the Smart Report Engine Community Edition packageThere, you will find the "config.php" file. Please open this file using any text editor you prefer.
-  - In the "config.php" file, you will find a section dedicated to database configuration. Update the connection string with the appropriate details of the MySQL database you used in Step 1. Make sure to provide the correct hostname, database name, username, and password in their respective fields.
+   - Navigate to the "sre_config" directory within the Smart Report Engine Community Edition package. There, you will find the "config.php" file. Please open this file using any text editor you prefer.
+   - In the "config.php" file, you will find a section dedicated to database configuration. Update the connection string with the appropriate details of the MySQL database you used in the third step. Make sure to provide the correct hostname, database name, username, and password in their respective fields.
   
  5- Save the changes to the "config.php" file.
 
@@ -35,7 +35,7 @@ Smart Report Engine is a user-friendly PHP reporting framework that enables the 
  7- Should you prefer to build the example projects from scratch, kindly proceed with step 8 in the installation process.
  > **_NOTE:_**  Regardless of your choice, the code walkthrough sections will provide explanations for the code in each example.
  
- 8- To begin writing your first project, you'll require a new PHP script. For the purpose of this tutorial, you can add the script to the root directory of the community edition, alongside the "sre_bootstrap.php" file. If you manually downloaded the community edition (without using Composer), you'll need to include the "sre_bootstrap.php" in your code, as demonstrated in the example below. In case your code is placed in different locations for other projects, ensure that you adjust the path to this autoload file accordingly. Please follow these steps to get started with your project:
+ 8- To begin writing your first project, you'll require a new PHP script. For the purpose of this tutorial, you can add the script to the root directory of the community edition, alongside the "sre_bootstrap.php" file. If you manually downloaded the community edition (without using Composer), you'll need to require the "sre_bootstrap.php" autoload filein your code, as demonstrated in the example below. In case your code is placed in different locations for other projects, ensure that you adjust the path to this autoload file accordingly. Please follow these steps to get started with your project:
   - Create a new PHP script for your project.
   - Optionally, place the script in the root directory of the community edition (same level as "sre_bootstrap.php") for this tutorial's purpose.
   - In your first new project, try writing the following simple PHP code. It should work without any issues.
