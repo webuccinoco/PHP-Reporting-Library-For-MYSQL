@@ -26,7 +26,7 @@ Smart Report Engine is a user-friendly PHP reporting framework that enables the 
    
 4- Configure the database Connection String
    - Navigate to the "sre_config" directory within the Smart Report Engine Community Edition package. There, you will find the "config.php" file. Please open this file using any text editor you prefer.
-   - In the "config.php" file, you will find a section dedicated to database configuration. Update the connection string with the appropriate details of the MySQL database you used in the third step. Make sure to provide the correct hostname, database name, username, and password in their respective fields.
+   - In the "config.php" file, you will find a section dedicated to database configuration. Update the connection string with the appropriate details of the MySQL database where you imported the example SQL file during the 3rd step. Make sure to provide the correct hostname, database name, username, and password in their respective fields.
   
  5- Save the changes to the "config.php" file.
 
