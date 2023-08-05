@@ -6,7 +6,7 @@
             "name": "Webuccino",
             "homepage": "https://mysqlreports.com/"
             
-        }]
+        }],
 	 
     "autoload": {
         "psr-4": {
