@@ -1,6 +1,6 @@
 {
     "name": "webuccinoco/sre-community",
-	"version": "1.0.0",
+	"version": "v1.0.0",
 	"authors": [
         {
             "name": "Webuccino",
@@ -10,7 +10,7 @@
 	 
     "autoload": {
         "psr-4": {
-            "webuccinoco/sre-community": "SmartReportingEngine/"
+            "SRE\\Engine\\": "SmartReportingEngine/"
         },"files": ["sre_config/config.php"]
     },
     "scripts": {
