@@ -1,0 +1,22 @@
+{
+    "name": "webuccinoco/sre-community",
+	"version": "1.0.0",
+	"authors": [
+        {
+            "name": "Webuccino",
+            "homepage": "https://mysqlreports.com/",
+            
+        }]
+	 
+    "autoload": {
+        "psr-4": {
+            "webuccinoco/sre-community": "SmartReportingEngine/"
+        },"files": ["sre_config/config.php"]
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php -f composer-scripts.php",
+			"php -f verify-setup.php"
+        ]
+    }
+}
