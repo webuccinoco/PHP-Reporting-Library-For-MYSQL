@@ -20,7 +20,7 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "php -f @package/composer-scripts.php",
+            "php -f @package/composer-script.php",
 	    "php -f @package/verify-setup.php"
         ]
     }
