@@ -1,12 +1,18 @@
 {
     "name": "webuccinoco/sre-community",
 	"version": "v1.0.0",
+    "minimum-stability": "stable",
+    "license": "GPL",
 	"authors": [
         {
             "name": "Webuccino",
             "homepage": "https://mysqlreports.com/"
             
         }],
+		"require": {
+    "php": ">=7.0",
+    
+},
 	 
     "autoload": {
         "psr-4": {
@@ -15,8 +21,8 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "php -f composer-scripts.php",
-			"php -f verify-setup.php"
+            "php -f @package/composer-scripts.php",
+			"php -f @package/verify-setup.php"
         ]
     }
 }
