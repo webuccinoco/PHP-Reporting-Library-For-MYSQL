@@ -1,6 +1,6 @@
 {
     "name": "webuccinoco/sre-community",
-    "version": "v1.0.3",
+    "version": "v1.0.4",
     "minimum-stability": "stable",
     "license": "GPL-1.0-or-later",
 	"authors": [
@@ -19,8 +19,12 @@
 	 "files": ["sre_config/config.php"]
     },
     "scripts": {
-         "post-install-cmd": [
-            "@php -r \"echo 'Smart Report Engine is installed successfully. You can visit https://mysqlreports.com/engine/documentation/index.php?post=community_install for getting started.';\""
-        ]
+        "post-install-cmd": [
+      
+      "cp -r vendor/webuccinoco/sre-community/sre_config sre_config",
+      "cp -r vendor/webuccinoco/sre-community/sre_reports sre_reports",
+      "cp -r vendor/webuccinoco/sre-community/db db",
+      "cp -r vendor/webuccinoco/sre-community/examples examples"
+    ]
     }
 }
