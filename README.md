@@ -4,7 +4,7 @@ Smart Report Engine is a user-friendly PHP reporting framework that enables the 
 [![Watch the video](https://mysqlreports.com/video.png)](https://www.youtube.com/embed/ZLa24Eo5gmE)
 
 ## Getting started
-1- You have the option to either clone the community edition of Smart Report Engine or download it directly from [this download page](https://mysqlreports.com/engine/documentation/index.php?post=community_install/) 
+1- You have the option to either clone the community edition of Smart Report Engine or download it directly from [this download page](https://mysqlreports.com/engine/documentation/index.php?post=community_install) 
 
 2- After downloading, extract the compressed folder to reveal the structure of SmartReportEngine. The contents will resemble something similar to the following:
 
@@ -72,7 +72,7 @@ try {
  - **Calling CreateReport Function:** To generate your report, you call the "CreateReport" function using the "CustomEngine" object. This function processes the defined options and generates the report. Upon successful creation, it returns the URL of the report. All the reports generated using Smart Report Engine will be automatically saved in the "sre_reports" directory.
  
 ## Important links
- -  [More Examples](https://mysqlreports.com/engine/documentation/index.php?post=community_install/)
+ -  [More Examples](https://mysqlreports.com/engine/documentation/index.php?post=community_install)
  -  [Detailed license comparison](http://mysqlreports.com/engine/index.php?post=community)
  To help you better understand the distinctions between the community and commercial editions, we have provided a concise overview in [this page](http://mysqlreports.com/engine/index.php?post=community). It highlights the key differences in features and use cases for each version.
 - [Smart Report Engine Troubleshooting](http://mysqlreports.com/engine/documentation/index.php?post=troubleshooting)

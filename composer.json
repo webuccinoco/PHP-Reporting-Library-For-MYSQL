@@ -1,7 +1,11 @@
 {
     "name": "webuccinoco/sre-community",
-    "version": "v1.0.5",
+    "version": "v1.0.6",
     "minimum-stability": "stable",
+    "description": "An open source PHP reporting framework, empowering the dynamic creation of professional reports (for MYSQL or Maria DB) directly from your projects.",
+    "keywords": ["PHP reporting engine","PHP reporting API","php reporting framework","php reporting tools","mysql reports","mysql reporting","php report builder","report builders for MYSQL"],
+    "homepage": "https://mysqlreports.com/engine/documentation/index.php?post=community_install",
+    "type": "library",
     "license": "GPL-1.0-or-later",
 	"authors": [
         {
@@ -14,17 +18,10 @@
 },
  "autoload": {
         "psr-4": {
-            "SRE\\Engine\\": "SmartReportingEngine/"
+            "SRE\\Engine\\": "SmartReportingEngine/src/Engine/"
         },
 	 "files": ["sre_config/config.php"]
-    },
-    "scripts": {
-        "post-package-install": [
-      
-      "cp -r vendor/webuccinoco/sre-community/sre_config sre_config",
-      "cp -r vendor/webuccinoco/sre-community/sre_reports sre_reports",
-      "cp -r vendor/webuccinoco/sre-community/db db",
-      "cp -r vendor/webuccinoco/sre-community/examples examples"
-    ]
     }
+    
 }
+
