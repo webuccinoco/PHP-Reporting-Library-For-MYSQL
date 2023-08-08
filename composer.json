@@ -19,7 +19,7 @@
 	 "files": ["sre_config/config.php"]
     },
     "scripts": {
-        "post-install-cmd": [
+        "post-package-install": [
       
       "cp -r vendor/webuccinoco/sre-community/sre_config sre_config",
       "cp -r vendor/webuccinoco/sre-community/sre_reports sre_reports",
