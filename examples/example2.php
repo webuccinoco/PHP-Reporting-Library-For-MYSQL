@@ -2,10 +2,10 @@
 use SRE\Engine\CustomEngine;
 use SRE\Engine\ReportOptions;
 
-if (file_exists(__DIR__ ."../vendor/autoload.php"))
-    require_once(__DIR__ ."../vendor/autoload.php");
+if (file_exists("../vendor/autoload.php"))
+    require_once("../vendor/autoload.php");
 else
-    require_once __DIR__ ."../sre_bootstrap.php";
+    require_once("../sre_bootstrap.php");
 
 try {
 
