@@ -7,10 +7,10 @@
  * URL : https://mysqlreports.com
  *
  */
-define("SRE__DEFAULT__USER__", "root");
+define("SRE__DEFAULT__USER__", "");
 define("SRE__DEFAULT__PASS__", "");
 define("SRE__DEFAULT__HOST__", "localhost");
-define("SRE__DEFAULT__DB__", "northwind");
+define("SRE__DEFAULT__DB__", "");
 
 
 define("SRE__ALLOWED_REPORT_LANGUAGES__", json_encode(array("en",
