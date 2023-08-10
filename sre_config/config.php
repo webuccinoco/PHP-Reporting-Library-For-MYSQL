@@ -3,7 +3,7 @@
  * Smart Report Engine
  * Community Edition v1.0.0
  * Author : Webuccino
- * All copyrights are preserved to Webuccinoco
+ * All copyrights are preserved to Webuccino inc
  * URL : https://mysqlreports.com
  *
  */
