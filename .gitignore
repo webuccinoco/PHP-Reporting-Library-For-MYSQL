@@ -1,4 +1,5 @@
+sre_config/
 !sre_reports/
 sre_reports/*
 !sre_reports/shared/
-sre_config/*
+
