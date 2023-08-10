@@ -26,7 +26,7 @@ class ReportOptions {
     private $fields = array();
     private $records_per_page = '10';
     private $layout = "alignleft";
-    private $style_name = 'blue';
+    private $style_name = 'default';
     private $title = '';
     private $header = '';
     private $footer = '';

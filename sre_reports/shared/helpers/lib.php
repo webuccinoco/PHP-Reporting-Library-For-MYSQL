@@ -98,15 +98,11 @@ $flush = false; // flag to send the logging data , it turns to true when the log
 $used_extension = "";
 $Search_Type = "";
 $_print_option = 0;
-if (!file_exists("../shared/views/layout_views/$layout.php")) {
-    $layout = "AlignLeft";
-    $style_name = "blue";
-}
+
 if (!file_exists("../shared/styles/$style_name.css")) {
-    if (strtolower($layout) != "mobile")
-        $style_name = "blue";
-    else
-        $style_name = "mobile";
+   
+        $style_name = "default";
+   
 }
 
 if (isset($_CLEANED ['print']) && isset($_CLEANED["RequestToken"])) {

@@ -63,7 +63,7 @@ if ($language == "he" || $language == "ar") {
 
         require_once 'actions.php';
         require_once 'header.php';
-        require_once "../shared/views/layout_views/$layout.php";
+        require_once "../shared/views/layout_views/AlignLeft.php";
         require_once "pagger.php";
 
         echo "</table>";
