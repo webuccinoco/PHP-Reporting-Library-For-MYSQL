@@ -63,6 +63,11 @@ try {
     echo $e->getMessage();
 }
 ``` 
+<p align="center">
+[![Generate Report](https://mysqlreports.com/generate.png)](https://mysqlreports.com/engine/sre-community/sre_reports/rep1691646585168400/rep1691646585168400.php)
+</p>
+
+
  ## Code Walkthrough: Understanding the Example
  The given code demonstrates a basic example of using Smart Report Engine effectively. Let's walk through the code step by step to understand how it functions:
  - **Namespaces:** The given code utilizes two namespaces, "SRE\Engine\CustomEngine" and "SRE\Engine\ReportOptions." These namespaces help organize and access specific parts of the code.
