@@ -65,6 +65,7 @@ try {
 ``` 
 <p align="center">
 [![Generate Report](https://mysqlreports.com/generate.png)](https://mysqlreports.com/engine/sre-community/sre_reports/rep1691646585168400/rep1691646585168400.php)
+[<img src="https://mysqlreports.com/generate.png"/>](https://mysqlreports.com/engine/sre-community/sre_reports/rep1691646585168400/rep1691646585168400.php)
 
 </p>
 
