@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700italic,700,400italic);
+
+.ui-widget-content,
+.ui-widget-content,
+.ui-datepicker .ui-datepicker-header,
+.ui-datepicker .ui-datepicker-title,
+.ui-datepicker .ui-datepicker-title,
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next,
+.ui-datepicker table,
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default,
+.ui-state-default {
+  background: #484848 url('none');
+}
+
+.ui-datepicker-inline {
+  padding: 0;
+}
+
+.ui-widget-header {
+  border: none;
+}
+
+.ui-datepicker .ui-datepicker-header {
+  padding: 1.2em 0;
+}
+
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {
+  top: 23px;
+}
+
+.ui-icon,
+.ui-datepicker-month,
+.ui-datepicker-year {
+  color: #ffe800;
+}
+
+a.ui-state-default,
+.ui-datepicker th {
+  color: #ffe800 !important;
+  border: none !important;
+  text-align: center !important;
+}
+
+.ui-datepicker {
+  width: 24.4em;
+  font-family: "Noto Sans", san-serif !important;
+  text-transform: uppercase;
+}
+
+.ui-datepicker td {
+  padding: 15px;
+  border: 1px solid transparent;
+}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+  color: #f5f5f5 !important;
+}
+
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-header .ui-state-highlight {
+  background-color: #ffe800;
+  color: #484848 !important;
+  padding: 15px;
+  border-top-left-radius: 1.5em;
+  border-bottom-right-radius: 1.5em;
+}

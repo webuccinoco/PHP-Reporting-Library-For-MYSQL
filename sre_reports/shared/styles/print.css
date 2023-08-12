@@ -1,0 +1,31 @@
+/* print style */
+/* Controls the page background colors and margings */
+body {
+  -webkit-print-color-adjust: exact;
+  margin: 15px;
+}
+
+.menu {
+  display: none;
+}
+
+.MainTable {
+    margin-top: 20px;
+}
+
+.ColumnHeader:last-child,.data-row td:last-child{display: none;}
+
+.inner-data-table {
+	width: 100%;
+}
+
+.TableFooter{
+    position: relative;
+    width: 700px;
+    margin-top: 30px;
+     display:none;
+}
+ 
+#redirect{
+     display:none;
+}

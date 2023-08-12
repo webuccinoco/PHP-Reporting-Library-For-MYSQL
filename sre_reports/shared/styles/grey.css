@@ -1,0 +1,424 @@
+
+
+/* style name : orange style */
+
+
+/* Controls the page background colors and margings */
+
+.MainPage {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: #FFF;
+    color: #000;
+}
+
+
+/* main table */
+
+.MainTable {
+    font-family: "CustomFontRegular";
+    padding: 0 15px;
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+.inner-data-table{
+    border-spacing: 0;
+}
+
+/* Report Title */
+
+.Title {
+    font-family: "CustomFont";
+    color: #777;
+    /*padding-left: 10px;*/
+
+    /*padding-left: 10px;*/
+
+    font-size: 24px;
+    font-weight: 100;
+
+    position:relative; 
+    /*padding-left: 10px;*/
+
+    margin-top: 10px;
+    background-color: transparent;
+
+    /*border: 1px solid #e1e1e8;*/
+    /*border-radius: 4px*/
+}
+
+.Title:before{
+    content:""; 
+    display:block; 
+    position:absolute; 
+    left:0; 
+    bottom:5px; 
+    width:100%; 
+
+}
+
+
+
+/* Separate between sections  */
+
+/* .Separator { */
+/*background-color: #C9C9C9;*/
+/*color: black;*/
+/*border-bottom: 1px dashed #333;*/
+/* } */
+
+
+/* The first grouping levels */
+
+.MainGroup {
+    font-family: "CustomFont"; 
+    font-size: 18px;
+    /* font-weight: bold; */
+    color: #000;
+    /*background-color: #BDCFE0;*/
+
+    padding: 35px 15px 10px 0;
+}
+
+
+/* Any subgrouping levels */
+
+
+tr.data-row:hover td.SubTotal{
+    background-color: #fff;
+}
+
+/* records Table Header */
+
+.TableHeader {
+    font-family: "CustomFont"; 
+    font-size: 12px;
+    font-weight: bold;
+    color: #000;
+    background-color: #EEE;
+}
+
+
+/* columns header */
+
+.ColumnHeader {
+    font-family: "CustomFont"; 
+    font-size: 14px;
+    /* font-weight: bold; */
+    color: #000;
+    background-color: #CCCCCC; /*#000;*/
+    height: 30px;
+}
+
+.ColumnHeaderBlock{
+    font-family: "CustomFont"; 
+    font-size: 14px;
+    /* font-weight: bold; */
+    color: #000;
+    background-color: #CCCCCC; /*#000;*/
+    height: 30px;
+
+}
+
+.HColumnHeader {
+    width : 20%;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #000;
+    background-color: transparent; /*#000;*/
+    height: 30px;
+    padding-left: 10px;
+}
+
+
+/* Table Cell */
+
+.TableCell {
+    font-family: "CustomFontRegular";
+    font-size: 13px;
+    color: #777;
+    text-align: center;
+    background-color: white;
+    height: 30px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ddd;
+    /*text-align: left;*/
+}
+
+.SubTotal {
+    font-family: "CustomFont"; 
+    font-size: 14px;
+    color: #2f2f2f;
+    background-color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+
+    height: 30px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-top-width: 1px;
+    border-top-style: solid;
+
+
+}
+
+.GrandTotal {
+    font-family: "CustomFont";  
+    font-size: 14px;
+    color: #2f2f2f;
+    background-color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+
+    height: 30px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+
+
+
+}
+
+.HTableCell {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    width : 40%;
+    font-size: 13px;
+    color: #777;
+    text-align: left;
+    background-color: white;
+    height: 30px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ddd;
+    padding-left:15px;
+    /*text-align: left;*/
+}
+
+/* Alternate table’s cell (Toggling) */
+
+.AlternateTableCell {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #777;
+    text-align: center;
+    background-color: white;
+    height: 30px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ddd;
+}
+
+
+
+tr.data-row:hover td, tr.mainpage:hover td {
+    background-color: #f3f7f8;
+}
+
+.units-in-stock{
+    width:100%;
+    display: block;
+    color:#fff;
+}
+
+
+
+/* navigation menu */
+
+.menu {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #FFFFFF;
+    background-color: #616161;
+
+
+
+    position: fixed;
+    width: 100%;
+}
+
+span.stars{ position: relative; margin: 0 auto;}
+
+span.stars,
+span.stars span {
+    display: block;
+    background: url(../images/icons/stars.png) 0 -16px repeat-x;
+    text-align: left;
+    width: 80px;
+    height: 16px;
+}
+
+span.stars span {
+    background-position: 0 0;
+    position: absolute;
+    left: 0;
+}
+
+.linkcell {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #000;
+}
+
+.menu_hover {
+    color: #000000;
+    background-color: #000;
+}
+
+/* Start pager */
+
+.TableFooter {
+    font-family: Arial;
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    width: calc(100% - 58px);
+    text-align: left;
+    background: #ecf0f1;
+    border-top: 1px solid #ddd;
+    display: inline-block;
+    color: #676767;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 0 0 2px;
+    padding: 7px 12px;
+    /*text-transform: uppercase;*/
+}
+
+.TableFooter a {
+    font-family: Arial;
+    color: #676767;
+    /*font-size: 11px;*/
+    text-decoration: none;
+}
+
+.TableFooter span{
+    padding: 0 2px;
+}
+
+.TableFooter span, .TableFooter a{
+    color: #000
+}
+
+.TableFooter input {
+    font-family: Arial;
+    /*padding: 4px 8px;*/
+    font-size: 14px;
+    color: #000;
+    text-align: left;
+    line-height: 20px;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+
+.TableFooter form {
+    padding-left: 30px;
+}
+
+.pages-num{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+.pages-num a{
+    font-size: 18px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    /*padding: 5px;*/
+    display: inline-block;
+    text-align: left;
+    border-radius: 4px;
+    color: #000;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.pages-num a:hover{
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #000;
+} 
+
+a.firstPage:after{ content: " « "; }
+a.lastPage:after{ content: " » "; }
+a.nextPage:after{ content: " › "; }
+a.prevPage:after{ content: " ‹ "; }
+/* End Pager */
+
+
+.form-horizontal .form-group {
+    border-bottom: dotted 1px #DDD;
+}
+.form-horizontal .control-label {
+    text-align: left; 
+}
+.form-inline .form-control {
+    max-width: 160px;
+}
+
+.panel-heading, .panel-body label{
+    color:#555;
+}
+
+.panel-heading h3{
+    margin-bottom: 0;
+}
+
+/* Filters Form */
+.filters-form {
+    margin-top: 30px;
+    /* display: table;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0; */
+}
+
+
+/* AR */
+html[dir^="rtl"] body * {font-family: tahoma;}
+html[dir^="rtl"] .nav-menu{direction: ltr;}
+html[dir^="rtl"] .search table{direction: rtl;}
+html[dir^="rtl"] .search #close_search {right:auto; left: 5px;}
+/*div[lang^="ar"] .nav-menu{direction: ltr;}*/
+
+/* RO */
+div[lang^="ro"] .search { width: 745px; }
+
+
+@media print{
+    body {
+        -webkit-print-color-adjust: exact;
+        margin: 15px;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .MainTable {
+        margin-top: 20px;
+    }
+
+    .ColumnHeader:last-child,.data-row td:last-child{display: none;}
+
+    .TableFooter{
+        position: relative;
+        width: 767px;
+        margin-top: 30px;
+        display:none;
+    }
+}
+
+
