@@ -101,18 +101,18 @@ This section will encompass the latest features introduced in Smart Report Engin
 > **_NOTE:_** By using any of our [commercial editions](http://mysqlreports.com/engine/documentation/index.php?post=community), you are granted access to all premium features, as well as the removal of all community restrictions mentioned above. 
 
 ## Smart Report Engine Pro
-[Smart Report Engine Pro](https://mysqlreports.com/engine/documentation/index.php?post=community_install)is an advanced version of Smart Report Engine, granting access to all of its premium features. Priced at just $64 for a Team License, the Pro edition offers numerous advantages, including:
+[Smart Report Engine Pro](https://mysqlreports.com/engine/documentation/index.php?post=community_install) is an advanced version of Smart Report Engine, granting access to all of its premium features. Priced at just $64 for a Team License, the Pro edition offers numerous advantages, including:
 
-1- Complete access to all Premium features.
-2- Can be used in SaaS and Commercial projects.
-3- Effortless integration with any existing session-based login system.
-4- Absence of a "Powered by" attribution in the footer of generated reports.
-5- A complimentary year of free upgrades. 
-6- A 70% discount on future upgrade fees (after the free upgrade period).
-7- Priority customer support.
-8- The ability to deploy Smart Report Engine on an unlimited number of servers or projects.
-9- The Team License allows for use by up to 7 developers, while the Enterprise License permits an unlimited number of developers within the organization.
-10- Royal free (no extra charged) when you delivered Smart Report Engine with your commercial product.
+- Complete access to all Premium features.
+- Can be used in SaaS and Commercial projects.
+- Effortless integration with any existing session-based login system.
+- Absence of a "Powered by" attribution in the footer of generated reports.
+- A complimentary year of free upgrades. 
+- A 70% discount on future upgrade fees (after the free upgrade period).
+- Priority customer support.
+- The ability to deploy Smart Report Engine on an unlimited number of servers or projects.
+- The Team License allows for use by up to 7 developers, while the Enterprise License permits an unlimited number of developers within the organization.
+- Royal free (no extra charged) when you delivered Smart Report Engine with your commercial product.
 
 ## Author
-[Webuccino] (https://mysqlreports.com/about/) Creating easy-to-use products since 2007
+[Webuccino](https://mysqlreports.com/about/) Creating easy-to-use products since 2007
