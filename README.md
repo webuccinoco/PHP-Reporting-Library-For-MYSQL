@@ -5,7 +5,7 @@ Smart Report Engine is a user-friendly PHP reporting framework that enables the 
 
 ## Getting started
 
-[![Watch the video](https://mysqlreports.com/video-gettingstarted.png)](https://www.youtube.com/embed/c2j5uR_mxzs)
+
 
 1- You have the option to either clone the community edition of Smart Report Engine or download it directly from [this download page](https://mysqlreports.com/engine/documentation/index.php?post=community_install) 
 
@@ -21,6 +21,7 @@ Smart Report Engine is a user-friendly PHP reporting framework that enables the 
 ├── examples/
 └── sre_bootstrap.php
 ```
+[![Watch the video](https://mysqlreports.com/video-gettingstarted.png)](https://www.youtube.com/embed/c2j5uR_mxzs)
 
 3- To initiate your first project on your server, you need to import a sample MySQL database. This process will enable you to get started with Smart Report Engine smoothly.
    - Inside the downloaded package of Smart Report Engine, locate the "/db/example.sql" file in the "db" directory. This SQL file contains the necessary commands to create and populate a single MySQL table named 'items'
