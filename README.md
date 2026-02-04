@@ -53,7 +53,7 @@ While the Community Edition provides a solid foundation for generating PHP repor
 └── sre_bootstrap.php
 ```
 
-[![Watch the video](https://mysqlreports.com/gs.png)](https://www.youtube.com/embed/c2j5uR_mxzs)
+[![Watch the video](https://mysqlreports.com/community.png)](https://www.youtube.com/embed/c2j5uR_mxzs)
 
 3- To initiate your first project on your server, you need to import a sample MySQL database. This process will enable you to get started with Smart Report Engine smoothly.
    - Inside the downloaded package of Smart Report Engine, locate the "/db/example.sql" file in the "db" directory. This SQL file contains the necessary commands to create and populate a single MySQL table named 'items'
