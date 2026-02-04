@@ -34,6 +34,11 @@ While the Community Edition provides a solid foundation for generating PHP repor
 
  #### 2. [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
   Perfect for those who prefer a visual workflow. This comprehensive tool allows you to build reports, charts, pivot tables, and interactive dashboards through a visual interface. Once created, you can securely integrate them into your own applications using the powerful Embed Manager. 
+
+[![Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/all.gif)](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
+
+[![Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/01.gif)](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
+  
   #### See [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/) in Action: Watch how the [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/) works here or explore our full [Video gallery](https://mysqlreports.com/webuccino-screencasts/) to see everything you can build.  
 
 ## Getting started with Smart Report Engine - PHP Reports Builder for MYSQL - Community Edition
@@ -131,6 +136,8 @@ The given code demonstrates a basic example of using Smart Report Engine effecti
 ### What is Smart Report Maker?
 [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/) is a complete visual report builder that allows users to design reports, charts, dashboards, drill-down charts, and KPIs through an easy-to-use web interface without writing code. Then you can embed these reports and dashboards to your app via [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/)
 
+[![Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/dashboards1.gif)](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
+
 ### Do I need coding skills to use these products?
 - **Smart Report Maker:** No coding required.  
 - **Smart Report Engine Pro & Smart Report Engine Community:** Basic PHP knowledge is required.
@@ -142,6 +149,9 @@ The given code demonstrates a basic example of using Smart Report Engine effecti
 ### What is the difference between Smart Report Maker and Smart Report Engine editions?
 
 The difference between [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/) and [Smart Report Engine](https://mysqlreports.com/mysql-reporting-tools/smart-report-engine/) is that Smart Report Maker is a complete product for creating professional reports, charts, dashboards, drill-down charts, and KPIs using an easy-to-use visual interface. Once created, you can easily embed these analytic resources into your own products using the built-in [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/).
+
+[![Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/01.gif)](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
+
 
 On the other hand, Smart Report Engine is a reporting engine designed for PHP developers who prefer to build reports programmatically by calling the engine’s API directly from their code. Smart Report Engine is available in two editions: the Community Edition, which can be used only in personal or open-source community projects, and the Pro Edition, which can be used in commercial applications and hosted SaaS platforms and provides access to premium features.
 
