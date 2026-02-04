@@ -37,7 +37,7 @@ While the Community Edition provides a solid foundation for generating PHP repor
   Perfect for those who prefer a visual workflow. This comprehensive tool allows you to build reports, charts, pivot tables, and interactive dashboards through a visual interface. Once created, you can securely integrate them into your own applications using the powerful Embed Manager. 
 
 [![Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/all.gif)](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
-<p align="center"><strong></strong>Screenshot of Different Modules of Smart Report Maker</strong></p>
+<h5 align="center">Screenshot of Different Modules of Smart Report Maker</h5>
   
   #### See [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/) in Action: Watch how the [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/) works here or explore our full [Video gallery](https://mysqlreports.com/webuccino-screencasts/) to see everything you can build.  
 
