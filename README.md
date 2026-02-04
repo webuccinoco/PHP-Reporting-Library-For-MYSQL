@@ -37,7 +37,6 @@ While the Community Edition provides a solid foundation for generating PHP repor
 
 [![Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/all.gif)](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
 
-[![Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/01.gif)](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
   
   #### See [Smart Report Maker](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/) in Action: Watch how the [Embed Manager](https://mysqlreports.com/srm-modules-embed-manager/) works here or explore our full [Video gallery](https://mysqlreports.com/webuccino-screencasts/) to see everything you can build.  
 
