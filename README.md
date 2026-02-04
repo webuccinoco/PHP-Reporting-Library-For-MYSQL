@@ -183,13 +183,11 @@ Yes. Reports are responsive and mobile-friendly.
 ## Features
 
 ### Can I use filters and parameters?
-Yes.
+Yes. Both Smart Report Engine & Smart Report Maker include filters and parameters. 
 
-### Can I create calculated fields?
-Yes.
 
-### Can I group data and create subtotals?
-Yes.
+### Can I group data?
+Yes. Both Smart Report Engine & Smart Report Maker support multiple grouping levels, subtotals and grand totals.
 
 ### Can I schedule reports?
 - **Smart Report Maker:** Yes  
@@ -211,13 +209,11 @@ Yes. Both Smart Report Engine and Smart Report Maker can integrate with existing
 ## Deployment
 
 ### Can I deploy on shared hosting?
-Yes.
+Yes. Both Smart Report Engine and Smart Report Maker can be deployed on shared hosting. 
 
 ### Can I deploy on VPS or cloud servers?
-Yes.
+Yes. Both Smart Report Engine and Smart Report Maker can be deployed on VPS.
 
-### Does Smart Report Engine require Composer?
-No. Composer is optional but supported.
 
 ---
 
