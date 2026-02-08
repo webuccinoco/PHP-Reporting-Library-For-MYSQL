@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/license-community-blue)
 ![PHP](https://img.shields.io/badge/php-7.4%2B-blue)
 ![MySQL](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB-orange)
-![No Code](https://img.shields.io/badge/No%20Code-Yes-success)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 Smart Report Engine is a **PHP reporting library for MySQL and MariaDB** that allows developers to generate professional, dynamic reports programmatically inside their own PHP applications.  
